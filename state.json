@@ -1,0 +1,18 @@
+{
+ "rate": 1346.47,
+ "start_usdt": 74.26827185158228,
+ "cash": 74.26827185158228,
+ "positions": {},
+ "trades": [],
+ "equity_history": [
+  {
+   "t": "2026-11-10 13:14:32",
+   "usdt": 74.2683,
+   "ngn": 100000.0
+  }
+ ],
+ "day": "2026-11-10",
+ "day_start_equity": 74.26827185158228,
+ "halted": false,
+ "halt_reason": ""
+}
